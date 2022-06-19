@@ -1,0 +1,6 @@
+我这里操作出错了 错误原因是我在 build/bin/下进行了 make /make install 操作
+正确的应是在build/ 下进行操作 make/make install 
+
+
+
+来源：https://www.bilibili.com/video/BV1vR4y1u77h?p=1
